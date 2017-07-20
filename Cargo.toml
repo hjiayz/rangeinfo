@@ -7,4 +7,5 @@ repository = "https://github.com/hjiayz/rangeinfo"
 keywords = ["range"]
 license = "Apache-2.0"
 description = "get info from any range struct."
+readme = "README.MD"
 [dependencies]
