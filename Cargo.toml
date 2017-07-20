@@ -1,6 +1,6 @@
 [package]
 name = "rangeinfo"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["hjiayz <hjiayz@hotmail.com>"]
 exclude = ["build/**/*.o", "doc/**/*.html"]
 repository = "https://github.com/hjiayz/rangeinfo"
