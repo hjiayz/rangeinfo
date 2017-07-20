@@ -5,6 +5,6 @@ authors = ["hjiayz <hjiayz@hotmail.com>"]
 exclude = ["build/**/*.o", "doc/**/*.html"]
 repository = "https://github.com/hjiayz/rangeinfo"
 keywords = ["range"]
-license = "Apache License 2.0"
+license = "Apache-2.0"
 description = "get info from any range struct."
 [dependencies]
